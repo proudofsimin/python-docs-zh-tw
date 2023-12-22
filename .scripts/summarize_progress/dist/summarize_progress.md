@@ -31,17 +31,17 @@
   - exceptions.po------------------------Ongoing, 59.78 %
   - file.po------------------------------✅
   - float.po-----------------------------Ongoing, 8.57 %
-  - frame.po-----------------------------❌, 💻 xingularity
+  - frame.po-----------------------------Ongoing, 41.67 %, 💻 xingularity
   - function.po--------------------------Ongoing, 67.65 %
   - gcsupport.po-------------------------Ongoing, 2.0 %
   - gen.po-------------------------------✅
   - import.po----------------------------Ongoing, 21.82 %
   - index.po-----------------------------✅
-  - init.po------------------------------Ongoing, 25.42 %
+  - init.po------------------------------Ongoing, 26.13 %
   - init_config.po-----------------------Ongoing, 12.87 %
   - intro.po-----------------------------Ongoing, 98.43 %
   - iter.po------------------------------✅
-  - iterator.po--------------------------Ongoing, 25.0 %
+  - iterator.po--------------------------Ongoing, 37.5 %
   - list.po------------------------------✅
   - long.po------------------------------Ongoing, 13.85 %
   - mapping.po---------------------------Ongoing, 11.11 %
@@ -59,7 +59,7 @@
   - refcounting.po-----------------------✅
   - reflection.po------------------------Ongoing, 12.5 %
   - sequence.po--------------------------Ongoing, 10.0 %
-  - set.po-------------------------------Ongoing, 17.86 %
+  - set.po-------------------------------Ongoing, 21.43 %
   - slice.po-----------------------------Ongoing, 9.52 %
   - stable.po----------------------------Ongoing, 83.72 %
   - structures.po------------------------Ongoing, 30.86 %
@@ -90,15 +90,15 @@
   - index.po-----------------------------✅
   - installed.po-------------------------✅
   - library.po---------------------------✅
-  - programming.po-----------------------Ongoing, 98.72 %
+  - programming.po-----------------------Ongoing, 98.98 %
   - windows.po---------------------------✅
 - howto/
   - annotations.po-----------------------✅
-  - argparse.po--------------------------Ongoing, 57.61 %, 💻 sweslo17
+  - argparse.po--------------------------Ongoing, 58.95 %, 💻 sweslo17
   - clinic.po----------------------------✅
   - cporting.po--------------------------Ongoing, 20.0 %
   - curses.po----------------------------Ongoing, 17.14 %
-  - descriptor.po------------------------Ongoing, 10.17 %
+  - descriptor.po------------------------Ongoing, 10.73 %
   - enum.po------------------------------❌
   - functional.po------------------------Ongoing, 7.25 %
   - index.po-----------------------------✅
@@ -107,7 +107,7 @@
   - isolating-extensions.po--------------❌
   - logging-cookbook.po------------------Ongoing, 1.63 %
   - logging.po---------------------------Ongoing, 11.06 %
-  - perf_profiling.po--------------------❌, 💻 mattwang44
+  - perf_profiling.po--------------------✅
   - pyporting.po-------------------------Ongoing, 13.83 %
   - regex.po-----------------------------Ongoing, 20.91 %
   - sockets.po---------------------------Ongoing, 98.28 %
@@ -121,7 +121,7 @@
 - library/
   - 2to3.po------------------------------Ongoing, 32.23 %
   - __future__.po------------------------✅
-  - __main__.po--------------------------Ongoing, 3.7 %
+  - __main__.po--------------------------Ongoing, 3.7 %, 💻 rockleona
   - _thread.po---------------------------Ongoing, 9.62 %
   - abc.po-------------------------------✅
   - aifc.po------------------------------Ongoing, 22.22 %
@@ -142,7 +142,7 @@
   - asyncio-protocol.po------------------Ongoing, 3.26 %
   - asyncio-queue.po---------------------✅
   - asyncio-runner.po--------------------Ongoing, 17.14 %
-  - asyncio-stream.po--------------------Ongoing, 89.66 %
+  - asyncio-stream.po--------------------Ongoing, 88.64 %
   - asyncio-subprocess.po----------------Ongoing, 9.09 %
   - asyncio-sync.po----------------------Ongoing, 83.15 %
   - asyncio-task.po----------------------Ongoing, 7.17 %
@@ -190,7 +190,7 @@
   - custominterp.po----------------------❌
   - dataclasses.po-----------------------Ongoing, 75.0 %
   - datatypes.po-------------------------✅
-  - datetime.po--------------------------Ongoing, 29.81 %
+  - datetime.po--------------------------Ongoing, 30.28 %
   - dbm.po-------------------------------Ongoing, 18.18 %
   - debug.po-----------------------------✅
   - decimal.po---------------------------Ongoing, 2.37 %, 💻 0gien
@@ -198,14 +198,14 @@
   - devmode.po---------------------------Ongoing, 10.2 %
   - dialog.po----------------------------Ongoing, 7.02 %
   - difflib.po---------------------------Ongoing, 12.69 %
-  - dis.po-------------------------------Ongoing, 8.54 %
+  - dis.po-------------------------------Ongoing, 8.51 %
   - distribution.po----------------------Ongoing, 50.0 %
-  - doctest.po---------------------------Ongoing, 6.01 %
+  - doctest.po---------------------------Ongoing, 5.99 %
   - email.charset.po---------------------Ongoing, 13.64 %, 💻 isabellechiu
   - email.compat32-message.po------------Ongoing, 2.88 %
   - email.contentmanager.po--------------Ongoing, 7.32 %
   - email.encoders.po--------------------Ongoing, 13.33 %
-  - email.errors.po----------------------Ongoing, 4.17 %
+  - email.errors.po----------------------Ongoing, 3.85 %
   - email.examples.po--------------------Ongoing, 8.33 %
   - email.generator.po-------------------Ongoing, 7.32 %
   - email.header.po----------------------Ongoing, 7.89 %
@@ -232,7 +232,7 @@
   - frameworks.po------------------------Ongoing, 33.33 %
   - ftplib.po----------------------------Ongoing, 98.55 %
   - functional.po------------------------Ongoing, 66.67 %
-  - functions.po-------------------------Ongoing, 67.25 %, 💻 StevenHsuYL
+  - functions.po-------------------------Ongoing, 66.96 %, 💻 StevenHsuYL
   - functools.po-------------------------Ongoing, 7.78 %
   - gc.po--------------------------------Ongoing, 98.25 %
   - getopt.po----------------------------Ongoing, 10.53 %
@@ -262,14 +262,14 @@
   - importlib.resources.abc.po-----------Ongoing, 3.33 %
   - importlib.resources.po---------------Ongoing, 5.0 %
   - index.po-----------------------------✅
-  - inspect.po---------------------------Ongoing, 17.63 %
+  - inspect.po---------------------------Ongoing, 22.1 %
   - internet.po--------------------------✅
   - intro.po-----------------------------Ongoing, 60.0 %
-  - io.po--------------------------------Ongoing, 25.19 %, 💻 cschan1828
+  - io.po--------------------------------Ongoing, 42.37 %, 💻 cschan1828
   - ipaddress.po-------------------------Ongoing, 1.35 %
   - ipc.po-------------------------------❌
   - itertools.po-------------------------Ongoing, 45.73 %
-  - json.po------------------------------Ongoing, 25.34 %
+  - json.po------------------------------Ongoing, 39.04 %
   - keyword.po---------------------------✅
   - language.po--------------------------❌
   - linecache.po-------------------------Ongoing, 35.71 %
@@ -291,7 +291,7 @@
   - msilib.po----------------------------Ongoing, 5.15 %
   - msvcrt.po----------------------------Ongoing, 10.71 %
   - multiprocessing.po-------------------Ongoing, 4.49 %
-  - multiprocessing.shared_memory.po-----Ongoing, 10.0 %, 💻 mattwang44
+  - multiprocessing.shared_memory.po-----✅
   - netdata.po---------------------------✅
   - netrc.po-----------------------------✅
   - nis.po-------------------------------Ongoing, 20.0 %
@@ -303,7 +303,7 @@
   - os.path.po---------------------------✅
   - os.po--------------------------------Ongoing, 18.2 %
   - ossaudiodev.po-----------------------Ongoing, 20.41 %
-  - pathlib.po---------------------------Ongoing, 48.19 %, 💻 mindihx
+  - pathlib.po---------------------------Ongoing, 50.8 %, 💻 mindihx
   - pdb.po-------------------------------Ongoing, 9.92 %, 💻 mattwang44
   - persistence.po-----------------------❌
   - pickle.po----------------------------Ongoing, 13.72 %
@@ -348,7 +348,7 @@
   - socketserver.po----------------------Ongoing, 5.75 %
   - spwd.po------------------------------Ongoing, 52.17 %
   - sqlite3.po---------------------------Ongoing, 15.79 %
-  - ssl.po-------------------------------Ongoing, 15.16 %, 💻 timmy0123
+  - ssl.po-------------------------------Ongoing, 26.23 %, 💻 timmy0123
   - stat.po------------------------------Ongoing, 2.47 %
   - statistics.po------------------------Ongoing, 99.48 %
   - stdtypes.po--------------------------Ongoing, 33.55 %
@@ -359,7 +359,7 @@
   - sunau.po-----------------------------✅
   - superseded.po------------------------✅
   - symtable.po--------------------------✅
-  - sys.monitoring.po--------------------❌, 💻 mattwang44
+  - sys.monitoring.po--------------------Ongoing, 23.08 %, 💻 mattwang44
   - sys.po-------------------------------Ongoing, 28.54 %
   - sys_path_init.po---------------------❌
   - sysconfig.po-------------------------Ongoing, 40.44 %
@@ -369,7 +369,7 @@
   - telnetlib.po-------------------------Ongoing, 17.65 %
   - tempfile.po--------------------------✅
   - termios.po---------------------------Ongoing, 25.0 %
-  - test.po------------------------------Ongoing, 5.02 %
+  - test.po------------------------------Ongoing, 26.76 %
   - text.po------------------------------✅
   - textwrap.po--------------------------Ongoing, 8.33 %
   - threading.po-------------------------Ongoing, 4.07 %, 💻 SivanYeh
@@ -383,21 +383,21 @@
   - tkinter.po---------------------------Ongoing, 24.35 %
   - tkinter.scrolledtext.po--------------Ongoing, 14.29 %
   - tkinter.tix.po-----------------------Ongoing, 11.11 %
-  - tkinter.ttk.po-----------------------Ongoing, 3.18 %
+  - tkinter.ttk.po-----------------------Ongoing, 3.17 %
   - token.po-----------------------------Ongoing, 1.52 %
   - tokenize.po--------------------------Ongoing, 11.63 %
   - tomllib.po---------------------------✅
   - trace.po-----------------------------Ongoing, 5.13 %
   - traceback.po-------------------------Ongoing, 12.22 %
   - tracemalloc.po-----------------------Ongoing, 15.97 %
-  - tty.po-------------------------------Ongoing, 72.73 %
-  - turtle.po----------------------------Ongoing, 21.25 %
+  - tty.po-------------------------------Ongoing, 84.62 %
+  - turtle.po----------------------------Ongoing, 22.1 %
   - types.po-----------------------------Ongoing, 5.77 %
   - typing.po----------------------------Ongoing, 30.0 %, 💻 rockleona
   - undoc.po-----------------------------Ongoing, 22.22 %
   - unicodedata.po-----------------------Ongoing, 21.88 %
-  - unittest.mock-examples.po------------❌, 💻 ken71301
-  - unittest.mock.po---------------------Ongoing, 35.66 %, 💻 ken71301
+  - unittest.mock-examples.po------------Ongoing, 9.88 %, 💻 ken71301
+  - unittest.mock.po---------------------Ongoing, 42.36 %, 💻 ken71301
   - unittest.po--------------------------Ongoing, 27.78 %
   - unix.po------------------------------✅
   - urllib.error.po----------------------✅
@@ -436,9 +436,9 @@
   - zoneinfo.po--------------------------Ongoing, 6.67 %
 - reference/
   - compound_stmts.po--------------------Ongoing, 26.19 %
-  - datamodel.po-------------------------Ongoing, 34.96 %
+  - datamodel.po-------------------------Ongoing, 33.92 %
   - executionmodel.po--------------------Ongoing, 31.63 %
-  - expressions.po-----------------------Ongoing, 36.54 %
+  - expressions.po-----------------------Ongoing, 36.4 %
   - grammar.po---------------------------Ongoing, 33.33 %
   - import.po----------------------------Ongoing, 13.68 %
   - index.po-----------------------------✅
@@ -466,7 +466,7 @@
   - whatnow.po---------------------------✅
 - using/
   - cmdline.po---------------------------Ongoing, 18.35 %
-  - configure.po-------------------------Ongoing, 35.11 %
+  - configure.po-------------------------Ongoing, 35.09 %
   - editors.po---------------------------Ongoing, 33.33 %
   - index.po-----------------------------✅
   - mac.po-------------------------------✅
@@ -485,7 +485,7 @@
   - 3.1.po-------------------------------Ongoing, 35.71 %
   - 3.10.po------------------------------✅
   - 3.11.po------------------------------Ongoing, 94.79 %
-  - 3.12.po------------------------------Ongoing, 43.82 %, 💻 mattwang44
+  - 3.12.po------------------------------Ongoing, 43.78 %, 💻 mattwang44
   - 3.2.po-------------------------------Ongoing, 24.32 %
   - 3.3.po-------------------------------Ongoing, 47.13 %
   - 3.4.po-------------------------------Ongoing, 20.35 %
