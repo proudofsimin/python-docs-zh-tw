@@ -220,7 +220,7 @@
   - ensurepip.po-------------------------Ongoing, 97.3 %
   - enum.po------------------------------✅
   - errno.po-----------------------------Ongoing, 0.75 %
-  - exceptions.po------------------------Ongoing, 8.47 %
+  - exceptions.po------------------------Ongoing, 8.47 %, 💻 mindihx
   - faulthandler.po----------------------Ongoing, 2.38 %
   - fcntl.po-----------------------------Ongoing, 22.22 %
   - filecmp.po---------------------------Ongoing, 2.5 %
