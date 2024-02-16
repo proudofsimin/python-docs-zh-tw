@@ -106,7 +106,7 @@
   - ipaddress.po-------------------------Ongoing, 10.42 %
   - isolating-extensions.po--------------❌
   - logging-cookbook.po------------------Ongoing, 1.63 %
-  - logging.po---------------------------Ongoing, 11.06 %
+  - logging.po---------------------------Ongoing, 11.06 %, 💻 josix
   - perf_profiling.po--------------------✅
   - pyporting.po-------------------------Ongoing, 13.83 %
   - regex.po-----------------------------Ongoing, 20.91 %
@@ -232,7 +232,7 @@
   - frameworks.po------------------------Ongoing, 33.33 %
   - ftplib.po----------------------------Ongoing, 98.55 %
   - functional.po------------------------Ongoing, 66.67 %
-  - functions.po-------------------------Ongoing, 66.96 %, 💻 StevenHsuYL
+  - functions.po-------------------------Ongoing, 66.96 %, 💻 mattwang44
   - functools.po-------------------------Ongoing, 7.78 %
   - gc.po--------------------------------Ongoing, 98.25 %
   - getopt.po----------------------------Ongoing, 10.53 %
@@ -406,7 +406,7 @@
   - urllib.request.po--------------------Ongoing, 29.43 %
   - urllib.robotparser.po----------------✅
   - uu.po--------------------------------Ongoing, 46.67 %
-  - uuid.po------------------------------✅, 💻 933yee
+  - uuid.po------------------------------✅
   - venv.po------------------------------Ongoing, 60.18 %
   - warnings.po--------------------------Ongoing, 20.0 %
   - wave.po------------------------------Ongoing, 9.43 %
@@ -458,7 +458,7 @@
   - inputoutput.po-----------------------✅
   - interactive.po-----------------------✅
   - interpreter.po-----------------------✅
-  - introduction.po----------------------✅, 💻 avatar220928
+  - introduction.po----------------------✅
   - modules.po---------------------------✅
   - stdlib.po----------------------------✅
   - stdlib2.po---------------------------✅
