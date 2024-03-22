@@ -379,7 +379,7 @@
   - tkinter.colorchooser.po--------------Ongoing, 33.33 %
   - tkinter.dnd.po-----------------------Ongoing, 10.0 %
   - tkinter.font.po----------------------Ongoing, 8.57 %
-  - tkinter.messagebox.po----------------Ongoing, 21.43 %, 💻 rockleona
+  - tkinter.messagebox.po----------------Ongoing, 21.43 %
   - tkinter.po---------------------------Ongoing, 24.35 %
   - tkinter.scrolledtext.po--------------Ongoing, 14.29 %
   - tkinter.tix.po-----------------------Ongoing, 11.11 %
