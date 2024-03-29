@@ -397,7 +397,7 @@
   - undoc.po-----------------------------Ongoing, 22.22 %
   - unicodedata.po-----------------------Ongoing, 21.88 %
   - unittest.mock-examples.po------------Ongoing, 9.88 %, 💻 ken71301
-  - unittest.mock.po---------------------Ongoing, 42.36 %, 💻 ken71301
+  - unittest.mock.po---------------------Ongoing, 42.36 %
   - unittest.po--------------------------Ongoing, 27.78 %
   - unix.po------------------------------✅
   - urllib.error.po----------------------✅
