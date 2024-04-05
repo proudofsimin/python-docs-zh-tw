@@ -351,7 +351,7 @@
   - ssl.po-------------------------------Ongoing, 26.23 %, 💻 timmy0123
   - stat.po------------------------------Ongoing, 2.47 %
   - statistics.po------------------------Ongoing, 99.48 %
-  - stdtypes.po--------------------------Ongoing, 33.55 %
+  - stdtypes.po--------------------------Ongoing, 33.55 %, 💻 beccalzh
   - string.po----------------------------Ongoing, 35.35 %
   - stringprep.po------------------------Ongoing, 4.0 %
   - struct.po----------------------------Ongoing, 45.56 %, 💻 Cliying94
