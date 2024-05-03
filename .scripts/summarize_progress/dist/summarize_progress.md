@@ -147,7 +147,7 @@
   - asyncio-sync.po----------------------Ongoing, 83.15 %
   - asyncio-task.po----------------------Ongoing, 7.17 %
   - asyncio.po---------------------------✅
-  - atexit.po----------------------------Ongoing, 10.53 %
+  - atexit.po----------------------------Ongoing, 10.53 %, 💻 mattwang44
   - audioop.po---------------------------Ongoing, 12.0 %
   - audit_events.po----------------------✅
   - base64.po----------------------------Ongoing, 15.0 %
@@ -195,7 +195,7 @@
   - debug.po-----------------------------✅
   - decimal.po---------------------------Ongoing, 2.37 %, 💻 0gien
   - development.po-----------------------Ongoing, 33.33 %
-  - devmode.po---------------------------Ongoing, 10.2 %
+  - devmode.po---------------------------Ongoing, 10.2 %, 💻 mattwang44
   - dialog.po----------------------------Ongoing, 7.02 %
   - difflib.po---------------------------Ongoing, 12.69 %
   - dis.po-------------------------------Ongoing, 8.51 %
@@ -204,7 +204,7 @@
   - email.charset.po---------------------Ongoing, 13.64 %, 💻 isabellechiu
   - email.compat32-message.po------------Ongoing, 2.88 %
   - email.contentmanager.po--------------Ongoing, 7.32 %
-  - email.encoders.po--------------------Ongoing, 13.33 %
+  - email.encoders.po--------------------Ongoing, 13.33 %, 💻 mattwang44
   - email.errors.po----------------------Ongoing, 3.85 %
   - email.examples.po--------------------Ongoing, 8.33 %
   - email.generator.po-------------------Ongoing, 7.32 %
@@ -303,7 +303,7 @@
   - os.path.po---------------------------✅
   - os.po--------------------------------Ongoing, 18.2 %
   - ossaudiodev.po-----------------------Ongoing, 20.41 %
-  - pathlib.po---------------------------Ongoing, 50.8 %, 💻 mindihx
+  - pathlib.po---------------------------Ongoing, 50.8 %
   - pdb.po-------------------------------Ongoing, 9.92 %, 💻 mattwang44
   - persistence.po-----------------------❌
   - pickle.po----------------------------Ongoing, 13.72 %
@@ -428,7 +428,7 @@
   - xml.sax.utils.po---------------------Ongoing, 14.29 %
   - xmlrpc.client.po---------------------Ongoing, 23.0 %
   - xmlrpc.po----------------------------✅
-  - xmlrpc.server.po---------------------Ongoing, 18.37 %, 💻 paultsaich
+  - xmlrpc.server.po---------------------Ongoing, 18.37 %
   - zipapp.po----------------------------Ongoing, 8.82 %
   - zipfile.po---------------------------Ongoing, 9.9 %
   - zipimport.po-------------------------Ongoing, 8.33 %
