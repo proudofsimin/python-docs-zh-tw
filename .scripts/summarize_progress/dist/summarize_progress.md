@@ -147,7 +147,7 @@
   - asyncio-sync.po----------------------Ongoing, 83.15 %
   - asyncio-task.po----------------------Ongoing, 7.17 %
   - asyncio.po---------------------------✅
-  - atexit.po----------------------------Ongoing, 10.53 %, 💻 mattwang44
+  - atexit.po----------------------------Ongoing, 10.53 %
   - audioop.po---------------------------Ongoing, 12.0 %
   - audit_events.po----------------------✅
   - base64.po----------------------------Ongoing, 15.0 %
@@ -204,7 +204,7 @@
   - email.charset.po---------------------Ongoing, 13.64 %, 💻 isabellechiu
   - email.compat32-message.po------------Ongoing, 2.88 %
   - email.contentmanager.po--------------Ongoing, 7.32 %
-  - email.encoders.po--------------------Ongoing, 13.33 %, 💻 mattwang44
+  - email.encoders.po--------------------Ongoing, 13.33 %
   - email.errors.po----------------------Ongoing, 3.85 %
   - email.examples.po--------------------Ongoing, 8.33 %
   - email.generator.po-------------------Ongoing, 7.32 %
@@ -332,7 +332,7 @@
   - resource.po--------------------------Ongoing, 36.52 %
   - rlcompleter.po-----------------------Ongoing, 16.67 %
   - runpy.po-----------------------------Ongoing, 7.5 %
-  - sched.po-----------------------------Ongoing, 20.83 %
+  - sched.po-----------------------------Ongoing, 20.83 %, 💻 mattwang44
   - secrets.po---------------------------✅
   - security_warnings.po-----------------✅
   - select.po----------------------------Ongoing, 33.33 %
@@ -359,7 +359,7 @@
   - sunau.po-----------------------------✅
   - superseded.po------------------------✅
   - symtable.po--------------------------✅
-  - sys.monitoring.po--------------------Ongoing, 23.08 %, 💻 mattwang44
+  - sys.monitoring.po--------------------Ongoing, 23.08 %, 💻 mattwang44, 💻 mattwang44
   - sys.po-------------------------------Ongoing, 28.54 %
   - sys_path_init.po---------------------❌
   - sysconfig.po-------------------------Ongoing, 40.44 %
