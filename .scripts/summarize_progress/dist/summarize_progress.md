@@ -122,7 +122,7 @@
   - 2to3.po------------------------------Ongoing, 32.23 %
   - __future__.po------------------------✅
   - __main__.po--------------------------Ongoing, 3.7 %
-  - _thread.po---------------------------Ongoing, 9.62 %
+  - _thread.po---------------------------Ongoing, 9.62 %, 💻 Mayavi345
   - abc.po-------------------------------✅
   - aifc.po------------------------------Ongoing, 22.22 %
   - allos.po-----------------------------✅
@@ -132,7 +132,7 @@
   - ast.po-------------------------------Ongoing, 2.98 %
   - asyncio-api-index.po-----------------Ongoing, 97.0 %
   - asyncio-dev.po-----------------------✅
-  - asyncio-eventloop.po-----------------Ongoing, 6.6 %, 💻 xchux
+  - asyncio-eventloop.po-----------------Ongoing, 6.6 %
   - asyncio-exceptions.po----------------✅
   - asyncio-extending.po-----------------❌
   - asyncio-future.po--------------------✅
@@ -286,7 +286,7 @@
   - mimetypes.po-------------------------Ongoing, 18.0 %
   - mm.po--------------------------------✅
   - mmap.po------------------------------Ongoing, 12.5 %
-  - modulefinder.po----------------------Ongoing, 7.69 %, 💻 mattwang44
+  - modulefinder.po----------------------Ongoing, 7.69 %
   - modules.po---------------------------Ongoing, 33.33 %
   - msilib.po----------------------------Ongoing, 5.15 %
   - msvcrt.po----------------------------Ongoing, 10.71 %
@@ -332,7 +332,7 @@
   - resource.po--------------------------Ongoing, 36.52 %
   - rlcompleter.po-----------------------Ongoing, 16.67 %
   - runpy.po-----------------------------Ongoing, 7.5 %
-  - sched.po-----------------------------Ongoing, 20.83 %, 💻 mattwang44
+  - sched.po-----------------------------Ongoing, 20.83 %
   - secrets.po---------------------------✅
   - security_warnings.po-----------------✅
   - select.po----------------------------Ongoing, 33.33 %
