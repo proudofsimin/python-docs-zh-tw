@@ -309,7 +309,7 @@
   - pickle.po----------------------------Ongoing, 13.72 %
   - pickletools.po-----------------------Ongoing, 23.53 %
   - pipes.po-----------------------------Ongoing, 25.0 %
-  - pkgutil.po---------------------------Ongoing, 10.64 %, 💻 mattwang44
+  - pkgutil.po---------------------------Ongoing, 10.64 %
   - platform.po--------------------------Ongoing, 94.92 %
   - plistlib.po--------------------------Ongoing, 11.63 %
   - poplib.po----------------------------Ongoing, 20.75 %
