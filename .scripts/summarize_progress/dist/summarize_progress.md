@@ -45,7 +45,7 @@
   - list.po------------------------------✅
   - long.po------------------------------Ongoing, 13.85 %
   - mapping.po---------------------------Ongoing, 11.11 %
-  - marshal.po---------------------------❌, 💻 wdbps93206
+  - marshal.po---------------------------❌, 💻 JoycePan810
   - memory.po----------------------------Ongoing, 25.65 %
   - memoryview.po------------------------Ongoing, 27.27 %
   - method.po----------------------------✅
@@ -139,7 +139,7 @@
   - asyncio-llapi-index.po---------------✅
   - asyncio-platforms.po-----------------✅
   - asyncio-policy.po--------------------Ongoing, 1.49 %
-  - asyncio-protocol.po------------------Ongoing, 3.26 %
+  - asyncio-protocol.po------------------Ongoing, 3.26 %, 💻 halloju
   - asyncio-queue.po---------------------✅
   - asyncio-runner.po--------------------Ongoing, 17.14 %
   - asyncio-stream.po--------------------Ongoing, 88.64 %
