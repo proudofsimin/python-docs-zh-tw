@@ -268,7 +268,7 @@
   - io.po--------------------------------Ongoing, 42.37 %, 💻 cschan1828
   - ipaddress.po-------------------------Ongoing, 1.35 %
   - ipc.po-------------------------------❌
-  - itertools.po-------------------------Ongoing, 45.73 %, 💻 ken71301
+  - itertools.po-------------------------Ongoing, 45.73 %
   - json.po------------------------------Ongoing, 39.04 %
   - keyword.po---------------------------✅
   - language.po--------------------------❌
@@ -396,7 +396,7 @@
   - typing.po----------------------------Ongoing, 30.0 %, 💻 rockleona
   - undoc.po-----------------------------Ongoing, 22.22 %
   - unicodedata.po-----------------------Ongoing, 21.88 %
-  - unittest.mock-examples.po------------Ongoing, 9.88 %, 💻 ken71301
+  - unittest.mock-examples.po------------Ongoing, 9.88 %
   - unittest.mock.po---------------------Ongoing, 42.36 %
   - unittest.po--------------------------Ongoing, 27.78 %
   - unix.po------------------------------✅
