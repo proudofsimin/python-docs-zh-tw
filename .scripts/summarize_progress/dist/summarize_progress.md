@@ -166,7 +166,7 @@
   - cmdline.po---------------------------✅
   - code.po------------------------------Ongoing, 6.45 %
   - codecs.po----------------------------Ongoing, 49.53 %
-  - codeop.po----------------------------Ongoing, 7.14 %, 💻 mattwang44
+  - codeop.po----------------------------Ongoing, 7.14 %
   - collections.abc.po-------------------Ongoing, 54.47 %
   - collections.po-----------------------✅
   - colorsys.po--------------------------✅
@@ -440,7 +440,7 @@
   - executionmodel.po--------------------Ongoing, 31.63 %
   - expressions.po-----------------------Ongoing, 36.4 %
   - grammar.po---------------------------Ongoing, 33.33 %
-  - import.po----------------------------Ongoing, 13.68 %
+  - import.po----------------------------Ongoing, 13.68 %, 💻 ken71301
   - index.po-----------------------------✅
   - introduction.po----------------------Ongoing, 35.48 %
   - lexical_analysis.po------------------Ongoing, 46.73 %
