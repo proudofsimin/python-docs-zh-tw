@@ -411,7 +411,7 @@
   - warnings.po--------------------------Ongoing, 20.0 %
   - wave.po------------------------------Ongoing, 9.43 %
   - weakref.po---------------------------Ongoing, 4.71 %
-  - webbrowser.po------------------------Ongoing, 55.84 %, 💻 mattwang44
+  - webbrowser.po------------------------Ongoing, 55.84 %
   - windows.po---------------------------✅
   - winreg.po----------------------------Ongoing, 14.45 %
   - winsound.po--------------------------Ongoing, 29.41 %
