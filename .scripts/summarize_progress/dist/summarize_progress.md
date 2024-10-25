@@ -31,7 +31,7 @@
   - exceptions.po------------------------Ongoing, 59.78 %
   - file.po------------------------------✅
   - float.po-----------------------------Ongoing, 8.57 %, 💻 PoChuan994
-  - frame.po-----------------------------Ongoing, 41.67 %, 💻 xingularity
+  - frame.po-----------------------------Ongoing, 41.67 %
   - function.po--------------------------Ongoing, 67.65 %
   - gcsupport.po-------------------------Ongoing, 2.0 %
   - gen.po-------------------------------✅
@@ -193,7 +193,7 @@
   - datetime.po--------------------------Ongoing, 30.28 %
   - dbm.po-------------------------------Ongoing, 18.18 %
   - debug.po-----------------------------✅
-  - decimal.po---------------------------Ongoing, 2.37 %, 💻 0gien
+  - decimal.po---------------------------Ongoing, 2.37 %
   - development.po-----------------------Ongoing, 33.33 %
   - devmode.po---------------------------Ongoing, 10.2 %
   - dialog.po----------------------------Ongoing, 7.02 %
@@ -201,7 +201,7 @@
   - dis.po-------------------------------Ongoing, 8.51 %
   - distribution.po----------------------Ongoing, 50.0 %
   - doctest.po---------------------------Ongoing, 5.99 %
-  - email.charset.po---------------------Ongoing, 13.64 %, 💻 isabellechiu
+  - email.charset.po---------------------Ongoing, 13.64 %
   - email.compat32-message.po------------Ongoing, 2.88 %
   - email.contentmanager.po--------------Ongoing, 7.32 %
   - email.encoders.po--------------------Ongoing, 13.33 %
@@ -282,7 +282,7 @@
   - mailcap.po---------------------------Ongoing, 6.67 %
   - markup.po----------------------------❌
   - marshal.po---------------------------✅
-  - math.po------------------------------Ongoing, 4.76 %
+  - math.po------------------------------Ongoing, 4.76 %, 💻 Carisa-Li
   - mimetypes.po-------------------------Ongoing, 18.0 %
   - mm.po--------------------------------✅
   - mmap.po------------------------------Ongoing, 12.5 %
@@ -354,7 +354,7 @@
   - stdtypes.po--------------------------Ongoing, 33.55 %, 💻 beccalzh
   - string.po----------------------------Ongoing, 35.35 %
   - stringprep.po------------------------Ongoing, 4.0 %
-  - struct.po----------------------------Ongoing, 45.56 %, 💻 Cliying94
+  - struct.po----------------------------Ongoing, 45.56 %
   - subprocess.po------------------------Ongoing, 14.83 %
   - sunau.po-----------------------------✅
   - superseded.po------------------------✅
