@@ -304,7 +304,7 @@
   - os.po--------------------------------Ongoing, 18.2 %
   - ossaudiodev.po-----------------------Ongoing, 20.41 %
   - pathlib.po---------------------------Ongoing, 50.8 %
-  - pdb.po-------------------------------Ongoing, 9.92 %, 💻 mattwang44
+  - pdb.po-------------------------------Ongoing, 9.92 %
   - persistence.po-----------------------❌
   - pickle.po----------------------------Ongoing, 13.72 %
   - pickletools.po-----------------------Ongoing, 23.53 %
@@ -359,7 +359,7 @@
   - sunau.po-----------------------------✅
   - superseded.po------------------------✅
   - symtable.po--------------------------✅
-  - sys.monitoring.po--------------------Ongoing, 23.08 %, 💻 mattwang44, 💻 mattwang44
+  - sys.monitoring.po--------------------Ongoing, 23.08 %, 💻 mattwang44
   - sys.po-------------------------------Ongoing, 28.54 %
   - sys_path_init.po---------------------❌
   - sysconfig.po-------------------------Ongoing, 40.44 %
