@@ -77,7 +77,7 @@
 - extending/
   - building.po--------------------------Ongoing, 22.22 %
   - embedding.po-------------------------Ongoing, 4.44 %
-  - extending.po-------------------------Ongoing, 5.56 %
+  - extending.po-------------------------Ongoing, 5.56 %, 💻 mattwang44
   - index.po-----------------------------✅
   - newtypes.po--------------------------Ongoing, 12.36 %
   - newtypes_tutorial.po-----------------Ongoing, 0.82 %
@@ -359,7 +359,7 @@
   - sunau.po-----------------------------✅
   - superseded.po------------------------✅
   - symtable.po--------------------------✅
-  - sys.monitoring.po--------------------Ongoing, 23.08 %, 💻 mattwang44
+  - sys.monitoring.po--------------------Ongoing, 23.08 %
   - sys.po-------------------------------Ongoing, 28.54 %
   - sys_path_init.po---------------------❌
   - sysconfig.po-------------------------Ongoing, 40.44 %
