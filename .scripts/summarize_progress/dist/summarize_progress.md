@@ -106,7 +106,7 @@
   - ipaddress.po-------------------------Ongoing, 10.42 %
   - isolating-extensions.po--------------❌
   - logging-cookbook.po------------------Ongoing, 1.63 %
-  - logging.po---------------------------Ongoing, 11.06 %, 💻 josix
+  - logging.po---------------------------Ongoing, 11.06 %
   - perf_profiling.po--------------------✅
   - pyporting.po-------------------------Ongoing, 13.83 %
   - regex.po-----------------------------Ongoing, 20.91 %
@@ -344,7 +344,7 @@
   - site.po------------------------------Ongoing, 31.48 %
   - smtplib.po---------------------------Ongoing, 17.7 %
   - sndhdr.po----------------------------Ongoing, 67.57 %
-  - socket.po----------------------------Ongoing, 22.4 %, 💻 weijay0804
+  - socket.po----------------------------Ongoing, 22.4 %
   - socketserver.po----------------------Ongoing, 5.75 %
   - spwd.po------------------------------Ongoing, 52.17 %
   - sqlite3.po---------------------------Ongoing, 15.79 %
