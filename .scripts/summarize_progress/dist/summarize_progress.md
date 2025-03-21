@@ -250,7 +250,7 @@
   - html.po------------------------------✅
   - http.client.po-----------------------Ongoing, 14.55 %
   - http.cookiejar.po--------------------Ongoing, 7.79 %
-  - http.cookies.po----------------------Ongoing, 26.79 %, 💻 mindihx
+  - http.cookies.po----------------------Ongoing, 26.79 %
   - http.po------------------------------Ongoing, 98.35 %
   - http.server.po-----------------------Ongoing, 11.43 %
   - i18n.po------------------------------Ongoing, 33.33 %
