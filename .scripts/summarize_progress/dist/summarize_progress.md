@@ -393,7 +393,7 @@
   - tty.po-------------------------------Ongoing, 84.62 %
   - turtle.po----------------------------Ongoing, 22.1 %
   - types.po-----------------------------Ongoing, 5.77 %
-  - typing.po----------------------------Ongoing, 30.0 %, 💻 rockleona
+  - typing.po----------------------------Ongoing, 30.0 %
   - undoc.po-----------------------------Ongoing, 22.22 %
   - unicodedata.po-----------------------Ongoing, 21.88 %
   - unittest.mock-examples.po------------Ongoing, 9.88 %
