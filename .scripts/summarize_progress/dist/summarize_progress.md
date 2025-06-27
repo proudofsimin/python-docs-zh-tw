@@ -22,7 +22,7 @@
   - codec.po-----------------------------✅
   - complex.po---------------------------✅
   - concrete.po--------------------------✅
-  - contextvars.po-----------------------Ongoing, 6.67 %, 💻 husohome
+  - contextvars.po-----------------------Ongoing, 6.67 %
   - conversion.po------------------------Ongoing, 11.54 %
   - coro.po------------------------------✅
   - datetime.po--------------------------Ongoing, 82.69 %
@@ -45,7 +45,7 @@
   - list.po------------------------------✅
   - long.po------------------------------Ongoing, 13.85 %
   - mapping.po---------------------------Ongoing, 11.11 %
-  - marshal.po---------------------------❌, 💻 JoycePan810
+  - marshal.po---------------------------❌, 💻 mattwang44
   - memory.po----------------------------Ongoing, 25.65 %
   - memoryview.po------------------------Ongoing, 27.27 %
   - method.po----------------------------✅
@@ -139,7 +139,7 @@
   - asyncio-llapi-index.po---------------✅
   - asyncio-platforms.po-----------------✅
   - asyncio-policy.po--------------------Ongoing, 1.49 %
-  - asyncio-protocol.po------------------Ongoing, 3.26 %, 💻 halloju
+  - asyncio-protocol.po------------------Ongoing, 3.26 %
   - asyncio-queue.po---------------------✅
   - asyncio-runner.po--------------------Ongoing, 17.14 %
   - asyncio-stream.po--------------------Ongoing, 88.64 %
@@ -177,7 +177,7 @@
   - configparser.po----------------------Ongoing, 9.34 %
   - constants.po-------------------------✅
   - contextlib.po------------------------Ongoing, 5.34 %
-  - contextvars.po-----------------------Ongoing, 4.35 %
+  - contextvars.po-----------------------Ongoing, 4.35 %, 💻 husohome
   - copy.po------------------------------✅
   - copyreg.po---------------------------Ongoing, 41.67 %
   - crypt.po-----------------------------Ongoing, 34.29 %
@@ -387,7 +387,7 @@
   - token.po-----------------------------Ongoing, 1.52 %
   - tokenize.po--------------------------Ongoing, 11.63 %
   - tomllib.po---------------------------✅
-  - trace.po-----------------------------Ongoing, 5.13 %, 💻 Dr-XYZ
+  - trace.po-----------------------------Ongoing, 5.13 %
   - traceback.po-------------------------Ongoing, 12.22 %
   - tracemalloc.po-----------------------Ongoing, 15.97 %
   - tty.po-------------------------------Ongoing, 84.62 %
