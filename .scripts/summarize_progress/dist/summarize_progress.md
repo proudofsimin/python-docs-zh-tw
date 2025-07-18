@@ -98,7 +98,7 @@
   - clinic.po----------------------------✅
   - cporting.po--------------------------Ongoing, 20.0 %
   - curses.po----------------------------Ongoing, 17.14 %
-  - descriptor.po------------------------Ongoing, 10.73 %
+  - descriptor.po------------------------Ongoing, 10.73 %, 💻 Copilot
   - enum.po------------------------------❌
   - functional.po------------------------Ongoing, 7.25 %
   - index.po-----------------------------✅
@@ -193,7 +193,7 @@
   - datetime.po--------------------------Ongoing, 30.28 %
   - dbm.po-------------------------------Ongoing, 18.18 %
   - debug.po-----------------------------✅
-  - decimal.po---------------------------Ongoing, 2.37 %
+  - decimal.po---------------------------Ongoing, 2.37 %, 💻 Copilot
   - development.po-----------------------Ongoing, 33.33 %
   - devmode.po---------------------------Ongoing, 10.2 %
   - dialog.po----------------------------Ongoing, 7.02 %
@@ -232,7 +232,7 @@
   - frameworks.po------------------------Ongoing, 33.33 %
   - ftplib.po----------------------------Ongoing, 98.55 %
   - functional.po------------------------Ongoing, 66.67 %
-  - functions.po-------------------------Ongoing, 66.96 %, 💻 mattwang44
+  - functions.po-------------------------Ongoing, 66.96 %, 💻 LamentXU123
   - functools.po-------------------------Ongoing, 7.78 %
   - gc.po--------------------------------Ongoing, 98.25 %
   - getopt.po----------------------------Ongoing, 10.53 %
@@ -319,8 +319,8 @@
   - pty.po-------------------------------Ongoing, 21.05 %
   - pwd.po-------------------------------✅
   - py_compile.po------------------------Ongoing, 26.67 %
-  - pyclbr.po----------------------------Ongoing, 8.0 %, 💻 LamentXU123
-  - pydoc.po-----------------------------Ongoing, 30.43 %
+  - pyclbr.po----------------------------Ongoing, 8.0 %
+  - pydoc.po-----------------------------Ongoing, 30.43 %, 💻 Dr-XYZ
   - pyexpat.po---------------------------Ongoing, 5.93 %
   - python.po----------------------------❌
   - queue.po-----------------------------✅
@@ -360,7 +360,7 @@
   - superseded.po------------------------✅
   - symtable.po--------------------------✅
   - sys.monitoring.po--------------------Ongoing, 23.08 %
-  - sys.po-------------------------------Ongoing, 28.54 %
+  - sys.po-------------------------------Ongoing, 28.54 %, 💻 Copilot
   - sys_path_init.po---------------------❌
   - sysconfig.po-------------------------Ongoing, 40.44 %
   - syslog.po----------------------------Ongoing, 29.03 %
@@ -380,7 +380,7 @@
   - tkinter.dnd.po-----------------------Ongoing, 10.0 %
   - tkinter.font.po----------------------Ongoing, 8.57 %
   - tkinter.messagebox.po----------------Ongoing, 21.43 %
-  - tkinter.po---------------------------Ongoing, 24.35 %
+  - tkinter.po---------------------------Ongoing, 24.35 %, 💻 Dr-XYZ
   - tkinter.scrolledtext.po--------------Ongoing, 14.29 %
   - tkinter.tix.po-----------------------Ongoing, 11.11 %
   - tkinter.ttk.po-----------------------Ongoing, 3.17 %
@@ -431,7 +431,7 @@
   - xmlrpc.server.po---------------------Ongoing, 18.37 %
   - zipapp.po----------------------------Ongoing, 8.82 %
   - zipfile.po---------------------------Ongoing, 9.9 %
-  - zipimport.po-------------------------Ongoing, 8.33 %, 💻 Dr-XYZ
+  - zipimport.po-------------------------Ongoing, 8.33 %
   - zlib.po------------------------------✅
   - zoneinfo.po--------------------------Ongoing, 6.67 %
 - reference/
