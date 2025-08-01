@@ -76,7 +76,7 @@
   - index.po-----------------------------✅
 - extending/
   - building.po--------------------------Ongoing, 22.22 %
-  - embedding.po-------------------------Ongoing, 4.44 %
+  - embedding.po-------------------------Ongoing, 4.44 %, 💻 Copilot
   - extending.po-------------------------Ongoing, 5.56 %, 💻 mattwang44
   - index.po-----------------------------✅
   - newtypes.po--------------------------Ongoing, 12.36 %
@@ -380,7 +380,7 @@
   - tkinter.dnd.po-----------------------Ongoing, 10.0 %
   - tkinter.font.po----------------------Ongoing, 8.57 %
   - tkinter.messagebox.po----------------Ongoing, 21.43 %
-  - tkinter.po---------------------------Ongoing, 24.35 %, 💻 Dr-XYZ
+  - tkinter.po---------------------------Ongoing, 24.35 %
   - tkinter.scrolledtext.po--------------Ongoing, 14.29 %
   - tkinter.tix.po-----------------------Ongoing, 11.11 %
   - tkinter.ttk.po-----------------------Ongoing, 3.17 %
