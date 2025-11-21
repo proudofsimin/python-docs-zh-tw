@@ -76,7 +76,7 @@
   - index.po-----------------------------✅
 - extending/
   - building.po--------------------------Ongoing, 22.22 %
-  - embedding.po-------------------------Ongoing, 4.44 %, 💻 Copilot
+  - embedding.po-------------------------Ongoing, 4.44 %
   - extending.po-------------------------Ongoing, 5.56 %, 💻 mattwang44
   - index.po-----------------------------✅
   - newtypes.po--------------------------Ongoing, 12.36 %
@@ -103,7 +103,7 @@
   - functional.po------------------------Ongoing, 7.25 %
   - index.po-----------------------------✅
   - instrumentation.po-------------------✅
-  - ipaddress.po-------------------------Ongoing, 10.42 %
+  - ipaddress.po-------------------------Ongoing, 10.42 %, 💻 b95702041
   - isolating-extensions.po--------------❌
   - logging-cookbook.po------------------Ongoing, 1.63 %
   - logging.po---------------------------Ongoing, 11.06 %
@@ -442,7 +442,7 @@
   - grammar.po---------------------------Ongoing, 33.33 %
   - import.po----------------------------Ongoing, 13.68 %, 💻 ken71301
   - index.po-----------------------------✅
-  - introduction.po----------------------Ongoing, 35.48 %
+  - introduction.po----------------------Ongoing, 35.48 %, 💻 JunliXiao
   - lexical_analysis.po------------------Ongoing, 46.73 %
   - simple_stmts.po----------------------Ongoing, 37.18 %
   - toplevel_components.po---------------✅
