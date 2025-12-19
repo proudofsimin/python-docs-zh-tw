@@ -442,7 +442,7 @@
   - grammar.po---------------------------Ongoing, 33.33 %
   - import.po----------------------------Ongoing, 13.68 %, 💻 ken71301
   - index.po-----------------------------✅
-  - introduction.po----------------------Ongoing, 35.48 %, 💻 JunliXiao
+  - introduction.po----------------------Ongoing, 35.48 %
   - lexical_analysis.po------------------Ongoing, 46.73 %
   - simple_stmts.po----------------------Ongoing, 37.18 %
   - toplevel_components.po---------------✅
