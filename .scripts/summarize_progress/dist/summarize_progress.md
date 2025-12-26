@@ -103,7 +103,7 @@
   - functional.po------------------------Ongoing, 7.25 %
   - index.po-----------------------------✅
   - instrumentation.po-------------------✅
-  - ipaddress.po-------------------------Ongoing, 10.42 %, 💻 b95702041
+  - ipaddress.po-------------------------Ongoing, 10.42 %
   - isolating-extensions.po--------------❌
   - logging-cookbook.po------------------Ongoing, 1.63 %
   - logging.po---------------------------Ongoing, 11.06 %
