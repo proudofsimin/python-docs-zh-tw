@@ -127,7 +127,7 @@
   - aifc.po------------------------------Ongoing, 22.22 %
   - allos.po-----------------------------✅
   - archiving.po-------------------------✅
-  - argparse.po--------------------------Ongoing, 12.13 %, 💻 mattwang44
+  - argparse.po--------------------------Ongoing, 12.13 %
   - array.po-----------------------------✅
   - ast.po-------------------------------Ongoing, 2.98 %
   - asyncio-api-index.po-----------------Ongoing, 97.0 %
@@ -440,7 +440,7 @@
   - executionmodel.po--------------------Ongoing, 31.63 %
   - expressions.po-----------------------Ongoing, 36.4 %
   - grammar.po---------------------------Ongoing, 33.33 %
-  - import.po----------------------------Ongoing, 13.68 %, 💻 ken71301
+  - import.po----------------------------Ongoing, 13.68 %
   - index.po-----------------------------✅
   - introduction.po----------------------Ongoing, 35.48 %
   - lexical_analysis.po------------------Ongoing, 46.73 %
